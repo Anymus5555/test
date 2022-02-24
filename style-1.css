@@ -1,0 +1,42 @@
+.dasht{
+
+
+text-align: -webkit-center;
+
+
+}
+
+
+
+.hanrain1{
+
+text-align: center;
+
+
+}
+
+.euronews{
+
+
+
+	margin: auto;
+}
+.ru{
+  width: 200px;
+  height: 150px;
+  background-color: rgb(255, 0, 68);
+  font-size: 2rem;
+  border-radius: 10%;
+  border: none;
+  color: white;
+  text-decoration: 3px;
+  box-shadow:inset 0 0 0 0 #f9e506 ;
+transition: ease-out 0.3s;
+outline: none;
+}
+.ru:hover{
+ box-shadow:inset 200px 0 0 0 0 #f9e506 ;
+ cursor: pointer;
+ color: #000;
+}
+
